@@ -1,0 +1,7 @@
+{
+  "name": "Plant Doctor",
+  "description": "تطبيق طبيب النباتات - واجهة أمامية تفاعلية مع مولد أكواد الـ Backend الخاص بـ Cordova",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
